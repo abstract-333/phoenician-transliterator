@@ -1,12 +1,14 @@
-# React + Vite
+# 🛶 Phoenician Transliteration Tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sail into the past — this web-based tool lets you transliterate **English** or **Arabic** text into **Phoenician script**, the alphabet that once connected empires across the Mediterranean.
 
-Currently, two official plugins are available:
+![screenshot](./public/images/screenshot.png) <!-- You can add a screenshot if available -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔤 Supports English and Arabic input
+- 📝 Detects input language automatically
+- ⚠️ Prevents mixed-language input
+- 📜 Displays beautiful Phoenician script
+- 🎨 Styled with Tailwind CSS and Lucide icons
+- 📦 Built with React + Vite for blazing speed

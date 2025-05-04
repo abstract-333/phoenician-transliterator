@@ -167,6 +167,8 @@ export default function PhoenicianTransliterator() {
           </a>
         </p>
       </details>
+      
+      <br/>
 
       <div className="mt-2 text-center text-xs text-gray-500">
         Made with ❤️ by <a href="https://github.com/abstract-333" target="_blank" rel="noopener noreferrer">

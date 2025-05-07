@@ -12,3 +12,7 @@ Sail into the past — this web-based tool lets you transliterate **English** or
 - 📜 Displays beautiful Phoenician script
 - 🎨 Styled with Tailwind CSS and Lucide icons
 - 📦 Built with React + Vite for blazing speed
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

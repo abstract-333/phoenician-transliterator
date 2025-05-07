@@ -10,6 +10,6 @@ Unauthorized replication of this project without proper credit violates both the
 
 **Author**: Bashar Hasan  
 **GitHub**: https://github.com/abstract-333  
-**License**: MIT 
+**License**: MIT <br>
 **Year**: 2025
 

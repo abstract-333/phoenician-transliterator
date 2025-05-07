@@ -13,6 +13,11 @@ Sail into the past — this web-based tool lets you transliterate **English** or
 - 🎨 Styled with Tailwind CSS and Lucide icons
 - 📦 Built with React + Vite for blazing speed
 
+## 🛡 Authorship & Notice
+
+This project was originally created by [Bashar Hasan](https://github.com/abstract-333) as a tribute to ancient cultures and languages.  
+Please see [NOTICE.md](./NOTICE.md) for more details on authorship, purpose, and usage guidelines.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

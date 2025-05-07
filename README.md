@@ -13,6 +13,10 @@ Sail into the past — this web-based tool lets you transliterate **English** or
 - 🎨 Styled with Tailwind CSS and Lucide icons
 - 📦 Built with React + Vite for blazing speed
 
+## References
+- https://en.wikipedia.org/wiki/Phoenician_alphabet
+- https://www.behance.net/gallery/93506463/LOGOFOLIO-PHOENICIA?tracking_source=search_projects|phoenicia&l=0
+
 ## 🛡 Authorship & Notice
 
 This project was originally created by [Bashar Hasan](https://github.com/abstract-333) as a tribute to ancient cultures and languages.  
